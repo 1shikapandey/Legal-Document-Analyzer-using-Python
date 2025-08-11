@@ -4,6 +4,7 @@ Legal Document Analyzer – AI-Powered Clause Detection, Risk Assessment, and Su
 <br>
 <br>
 
+
 The **Legal Document Analyzer** is a Python-based application designed to **automate the review and risk assessment** of legal documents such as **contracts, agreements, and memoranda**. It leverages **Natural Language Processing (NLP)**, **pattern matching**, and **text summarization** techniques to:
 
 * Extract **key clauses, entities, and legal concepts**
@@ -57,6 +58,12 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ## 🧩 Core Components
 
+### **Class:** `LegalDocumentAnalyzer`
+
+### **Data Class:** `AnalysisResult`
+
+#### Main Methods:
+
 * `__init__` – Initializes NLP models, clause/risk/favorable patterns
 * `print_debug` – Debug messages for verbose mode
 * `_add_custom_matcher_patterns` – Adds legal-specific entity patterns
@@ -98,5 +105,4 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 * Reduces manual effort for lawyers, compliance teams, and business professionals
 * Customizable to match different industries and jurisdictions
 
----
 
