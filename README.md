@@ -1,2 +1,4 @@
 # Legal-Document-Analyzer-using-Python
 Legal Document Analyzer – AI-Powered Clause Detection, Risk Assessment, and Summarization in Python
+<br>
+The Legal Document Analyzer is a Python-based tool that leverages Natural Language Processing (NLP) and AI to automatically analyze legal documents such as contracts, agreements, and policies. It can detect key clauses, extract legal entities (parties, dates, amounts, jurisdictions), assess potential risks, and generate concise summaries. Designed for lawyers, businesses, and researchers, it streamlines the review process, reduces manual effort, and ensures important details are not overlooked. The tool supports multiple document formats (PDF, DOCX, TXT) and uses libraries like PyMuPDF, spaCy Legal NLP, and HuggingFace Transformers for high-accuracy analysis.
