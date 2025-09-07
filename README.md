@@ -26,7 +26,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 📂 Use Cases
+## Use Cases
 
 * **Contract Review** – Quickly highlight critical clauses, missing terms, and potential risks in business contracts.
 * **Due Diligence** – Review large volumes of agreements for compliance and risk during mergers, acquisitions, or audits.
