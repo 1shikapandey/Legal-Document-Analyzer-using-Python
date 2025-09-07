@@ -15,7 +15,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 * **Clause Identification** – Detects the presence and location of critical clauses such as confidentiality, indemnification, and governing law.
 * **Entity Extraction** – Recognizes parties, organizations, monetary amounts, dates, and jurisdictions using both standard NLP and custom patterns.
