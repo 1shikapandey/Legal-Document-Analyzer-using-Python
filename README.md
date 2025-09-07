@@ -36,7 +36,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 🛠️ Technical Overview
+## Technical Overview
 
 ### Libraries & Their Purpose
 
