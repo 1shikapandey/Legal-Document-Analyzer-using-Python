@@ -78,7 +78,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 📊 Example Workflow
+## Example Workflow
 
 1. **Input** – Upload a contract (`PDF`, `DOCX`, or `TXT`).
 2. **Processing** – The analyzer:
