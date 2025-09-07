@@ -56,7 +56,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 🧩 Core Components
+## Core Components
 
 ### **Class:** `LegalDocumentAnalyzer`
 
