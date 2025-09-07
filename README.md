@@ -98,7 +98,7 @@ It supports multiple document formats including **PDF, DOCX, and TXT**, making i
 
 ---
 
-## 💼 Benefits
+## Benefits
 
 * Speeds up document review
 * Improves consistency in legal analysis
