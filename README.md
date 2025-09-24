@@ -2,7 +2,7 @@
 Legal Document Analyzer – AI-Powered Clause Detection, Risk Assessment, and Summarization in Python
 <br>
 <br>
-<br>
+
 
 
 The **Legal Document Analyzer** is a Python-based application designed to **automate the review and risk assessment** of legal documents such as **contracts, agreements, and memoranda**. It leverages **Natural Language Processing (NLP)**, **pattern matching**, and **text summarization** techniques to:
